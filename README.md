@@ -1,2 +1,4 @@
-# demo
-This is an Demo repository
+# Demo
+This is a Demo repository
+
+# Author : Sai Charan Kanthuri
